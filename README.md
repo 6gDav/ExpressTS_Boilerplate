@@ -4,10 +4,12 @@ Minimalist boilerplate for ExpressJS with TypeScript.
 
 # 🚀 What inside?
 
--- **[ExpressJS](https://expressjs.com/)**:  Backend framework. Based on *NodeJS*.
--- **[TypeScript](https://www.typescriptlang.org/)**:  Programing langeuge for static typing.
--- **[TSX](https://tsx.is/)**:  It is modern esbuild based transpiler for *TypeScript* files.
--- **[ES-Module](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)**:  *ESM* module system to able to import and export files. 
+<ul>
+  <li><b><a href="https://expressjs.com/">ExpressJS</a></b>: Backend framework. Based on <i>NodeJS</i>.</li>
+  <li><b><a href="https://www.typescriptlang.org/">TypeScript</a></b>: Programing language for static typing.</li>
+  <li><b><a href="https://tsx.is/">TSX</a></b>: It is modern esbuild based transpiler for <i>TypeScript</i> files.</li>
+  <li><b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules/">ES-Module</a></b>: <i>ESM</i> module system to able to import and export files.</li>
+</ul>
 
 # 🛠️ How to use?
 
