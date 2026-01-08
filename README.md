@@ -14,6 +14,9 @@ Minimalist boilerplate for ExpressJS with TypeScript.
 ## 📦 Installation 
 
 * Clone this repository.
+```bash
+git clone https://github.com/6gDav/ExpressTS_Boilerplate.git
+```
 * Rename the name in the `package.json` file.
 
 ## 📈 Development
